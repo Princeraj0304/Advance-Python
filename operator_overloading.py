@@ -10,6 +10,7 @@ class Book:
 obj1=Book(400,"Godan")
 obj2=Book(200,"Gunaho ka devta")
 
+
 print("Total number of pages are ",obj1+obj2)
 
 
